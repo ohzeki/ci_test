@@ -32,7 +32,12 @@ class SampleTest
         return 3;
     }
 
-    public function getAll235()
+    public function getAll23()
+    {
+        return 3;
+    }
+
+        public function getAll235()
     {
         return 3;
     }
@@ -42,6 +47,4 @@ class SampleTest
         $test2= "test";
         return 3;
     }
-
-    test
 }
